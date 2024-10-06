@@ -1,6 +1,6 @@
 <!-- Banner personalizado con efecto wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,150:3f5efb&height=120&section=header&text=Mihell%20D'Enjoy&fontSize=40&fontAlignY=40&animation=fadeIn&fontColor=ffffff" alt="Mihell D'Enjoy"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,150:3f5efb&height=120&section=header&text=Mihell%20D'Enjoy&fontSize=40&fontAlignY=40&animation=fadeIn&fontColor=ffffff" alt="Michell D'Enjoy"/>
 </p>
 
 # 👋 Hi, I'm Michell!
@@ -9,7 +9,7 @@
 
 I'm Michell, a self-taught developer with an unconditional love for everything that involves code (or that makes me say _"Why isn't this working?!_"). I'm **curious**, always eager to learn, and constantly exploring new technologies and ways to level up my skills.
 
-- 💻 Currently diving deep into the **full stack** world (Frontend and Backend, i like everything)!
+- 💻 Currently diving deep into the **full stack** world (Frontend and Backend, I like everything)!
 - 🎯 My goal: to one day be the best at what I do, or at least get pretty close. But there's no rush—what matters most is enjoying the journey. 🤝 I love collaborating because coding, like coffee, is always better when shared.
 - 😜 Fun fact: If I don’t know how to do something, chances are I’ll figure it out.
 
@@ -39,6 +39,21 @@ I'm Michell, a self-taught developer with an unconditional love for everything t
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</div>
+
+---
+
+### 🛠️ **Projects:**
+<div align="center">
+  <!-- Star Wars -->
+  <a href="https://github.com/4GeeksAcademy/michellstarwars" target="_blank">
+    <img src="https://img.shields.io/badge/Star%20Wars-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="Star Wars"/>
+  </a>
+  
+  <!-- LiquiBoxes -->
+  <a href="https://sample-service-name-3no0.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LiquiBoxes-%233f5efb?style=for-the-badge&logo=render&logoColor=white" alt="LiquiBoxes"/>
+  </a>
 </div>
 
 ---
