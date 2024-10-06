@@ -10,7 +10,7 @@
 I'm Michell, a self-taught developer with an unconditional love for everything that involves code (or that makes me say _"Why isn't this working?!_"). I'm **curious**, always eager to learn, and constantly exploring new technologies and ways to level up my skills.
 
 - 💻 Currently diving deep into the **full stack** world (Frontend and Backend, i like everything)!
-- 🎯 My goal: one day be **the best at what I do**, or at least get pretty close. But without rushing, the important thing is to enjoy the process.- 🤝 I love **collaborating**, because coding, like coffee, is better when shared.
+- 🎯 My goal: to one day be the best at what I do, or at least get pretty close. But there's no rush—what matters most is enjoying the journey. 🤝 I love collaborating because coding, like coffee, is always better when shared.
 - 😜 Fun fact: If I don’t know how to do something, chances are I’ll figure it out.
 
 ---
