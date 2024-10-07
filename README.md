@@ -2,10 +2,13 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5F0F40,50:FB8B24,150:5F0F40&height=140&section=header&text=Mihell%20D'Enjoy&fontSize=40&fontAlignY=40&animation=fadeIn&fontColor=ffffff" alt="Michell D'Enjoy"/>
 </p>
+<h3 align="center">
+  🖥️ <span style="color:#ff69b4;">Curious at heart</span>,<span style="color:#5F0F40;"> a developer by choice</span>
+</h3>
 
-# 👋 Hi, I'm Michell!
+---
 
-<h3 align="center">🖥️ I'm a <span style="color:#ff69b4">Full Stack Developer</span> passionate about technology</h3>
+# 🙂 Hi there!
 
 I'm Michell, a self-taught developer with an unconditional love for everything that involves code (or that makes me say _"Why isn't this working?!_"). I'm **curious**, always eager to learn, and constantly exploring new technologies and ways to level up my skills.
 
@@ -73,9 +76,14 @@ Would you like to collaborate on a project or have an interesting idea? Feel fre
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGg1Mm9qa2FraDZpZzA2cnpjZDRyeWZhamF5OWpvZzE1Zzk5ZDBxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BoEeFJkz2eZUBcQ/giphy.gif" width="200px" alt="coding gif"/>
 </p>
 
----
-
 <!-- Footer personalizado -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5F0F40,50:FB8B24,150:5F0F40&height=120&section=footer"/>
 </p>
+
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=michelldenjoy&theme=radical&hide_border=true&background=0D1117&stroke=FB8B24&ring=FB8B24&fire=FB8B24&currStreakLabel=FB8B24" alt="GitHub Streak">
+</p>
+
+---
