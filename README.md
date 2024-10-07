@@ -1,6 +1,6 @@
 <!-- Banner personalizado con efecto wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F0C929,150:990000&height=140&section=header&text=Mihell%20D'Enjoy&fontSize=40&fontAlignY=40&animation=fadeIn&fontColor=ffffff" alt="Michell D'Enjoy"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5F0F40,50:FB8B24,150:5F0F40&height=140&section=header&text=Mihell%20D'Enjoy&fontSize=40&fontAlignY=40&animation=fadeIn&fontColor=ffffff" alt="Michell D'Enjoy"/>
 </p>
 
 # 👋 Hi, I'm Michell!
@@ -77,5 +77,5 @@ Would you like to collaborate on a project or have an interesting idea? Feel fre
 
 <!-- Footer personalizado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F0C929,150:990000&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5F0F40,50:FB8B24,150:5F0F40&height=120&section=footer"/>
 </p>
