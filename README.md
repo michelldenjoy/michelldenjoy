@@ -1,6 +1,6 @@
 <!-- Banner personalizado con efecto wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5F0F40,50:FB8B24,150:5F0F40&height=140&section=header&text=Mihell%20D'Enjoy&fontSize=40&fontAlignY=40&animation=fadeIn&fontColor=ffffff" alt="Michell D'Enjoy"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5F0F40,50:FB8B24,150:5F0F40&height=145&section=header&text=Mihell%20D'Enjoy&fontSize=40&fontAlignY=40&animation=fadeIn&fontColor=ffffff" alt="Michell D'Enjoy"/>
 </p>
 <h3 align="center">
   🖥️ <span style="color:#ff69b4;">Curious at heart</span>,<span style="color:#5F0F40;"> developer by choice</span>
